@@ -28,8 +28,6 @@ Las tecnologias que manejo son:
 -**CSS puro**
 -**GIT**
 
-<div style="page-break-after: always; visibility: hidden"> \pagebreak </div>
-
 # Hello! My name is Santiago Peralta.
 
 ## Who am I?
